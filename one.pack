@@ -1,0 +1,12 @@
+{
+	"version":"1.0",
+	"packName":"one",
+	"questions":[
+		{"id":"askSkill1","question":"The team needs someone with a skill of ","answer":"relatedSkillsForTeam"},
+		{"id":"askSkill2","question":"%relatedSkillsForTeam known by","answer":"memberOrNone"},		
+		{"id":"askSkill2","question":"%member best skill is %allSkillOfMember"},
+		{"id":"askSkill2","question":"Our best %allSkillOfTeam is %allMemberWithSkill"},
+		{"id":"askSkill1","question":"%member made me feel %goodfeelings"},
+		{"id":"askSkill1","question":"%member made me feel %allfeelings"}
+	]
+}
